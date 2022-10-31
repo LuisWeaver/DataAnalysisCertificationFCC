@@ -1,5 +1,4 @@
 # Data Analysis with Python
----
 
 Códigos para a Certificação de Análise de Dados em Python, oferecida gratuitamente pela plataforma FreeCodeCamp. 
 
